@@ -39,3 +39,26 @@ import Foundation
 //    print("Not equal!")
 //}
 //
+
+//let cityName: String = "Hanoi"
+//let countryName: String = "Vietnam"
+//
+//print("Hello, \(cityName)! I am from \(countryName).")
+//
+//let number: Double = 3
+//print(number)
+
+
+//let greeting: String = "It is traditional in programming to print \"Hello, World!\""
+//
+//print(greeting)
+//
+//if greeting == "Hello, World!" {
+//    print("Correct!")
+//}
+//
+//if greeting.isEmpty {
+//    print("The string is empty!")
+//} else {
+//    print("The string is not empty!")
+//}

@@ -30,12 +30,12 @@ import Foundation
 //wholeNumber = numberWithDecimal
 /// Will be flagged for mismathced types, will not compile.
 
-var largeUglyNumber = 1000000000
-var largePrettyNumber = 1_000_000_000
-
-if largeUglyNumber == largePrettyNumber {
-    print("Equal!")
-} else {
-    print("Not equal!")
-}
-
+//var largeUglyNumber = 1000000000
+//var largePrettyNumber = 1_000_000_000
+//
+//if largeUglyNumber == largePrettyNumber {
+//    print("Equal!")
+//} else {
+//    print("Not equal!")
+//}
+//
